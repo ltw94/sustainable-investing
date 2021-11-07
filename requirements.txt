@@ -1,0 +1,7 @@
+financedatabase
+pandas
+numpy
+spacy
+sec-edgar-downloader
+beautifulsoup4
+pyLDAvis==2.1.2
